@@ -1,0 +1,10 @@
+1_list_all.sh
+2_input_output.sh
+3_read_file.sh
+4_passed_arguments.sh
+5_write_file.sh
+6_append_file.sh
+7_redirect_output.sh
+files.txt
+input.txt
+output.txt

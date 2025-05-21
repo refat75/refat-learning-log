@@ -1,0 +1,3 @@
+Hi, I'm Refat.
+Today I am learning bash scripting.
+Bash scripting is fun.
