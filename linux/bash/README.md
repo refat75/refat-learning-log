@@ -74,10 +74,18 @@ name=Refat # Set a variable by assigning value directly.
 echo $name # Access the variable by append a $ before variable name
 ```
 ## Tutorial
-[Bash Scripting Tutorial for Beginners -- freecodecamp](https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/)
+### Basic
+[1. Bash Scripting Tutorial for Beginners -- freecodecamp](https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/)
 
-[Bash if...else Statement -- linuxize.com](https://linuxize.com/post/bash-if-else-statement/)
+[2. Bash if...else Statement -- linuxize.com](https://linuxize.com/post/bash-if-else-statement/)
 
-[Bash For Loop -- linuxize](https://linuxize.com/post/bash-for-loop/)
+[3. Bash For Loop -- linuxize](https://linuxize.com/post/bash-for-loop/)
 
-[Bash For Loop Example](https://www.cyberciti.biz/faq/bash-for-loop/)
+[4. Bash For Loop Example](https://www.cyberciti.biz/faq/bash-for-loop/)
+
+[5. Functions! Divide and Conquer](https://ryanstutorials.net/bash-scripting-tutorial/bash-functions.php)
+
+### Advanced
+[1. sed(Stream Editor) command - Powerful utility for text manipulation](https://www.digitalocean.com/community/tutorials/linux-sed-command)
+
+[2.grep - Effecient text search](https://www.digitalocean.com/community/tutorials/using-grep-regular-expressions-to-search-for-text-patterns-in-linux)
